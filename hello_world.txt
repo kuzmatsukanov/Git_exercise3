@@ -4,7 +4,7 @@ consectetuer adipiscing elit.
 Aenrfrfrfrean commodo ligula water eget dolor.
 Aefrfrfrfrnean massa.
 >>>>>>> 17d1b0e5d3f9524672ed8dc30723f821f3cdab77
-Cum sociis natoque penatibus et magnis dis parturient montes,
+Cum natoque penatibus et magnis dis parturient montes,
 nascetur ridiculus mus.
 Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
 Nulla consequat massa quis enim.
